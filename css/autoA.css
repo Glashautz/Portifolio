@@ -1,0 +1,19 @@
+body{
+background-image: linear-gradient(to bottom, rgba(0, 165, 254, 0.735), rgb(0, 0, 0));
+height: 1050px;
+}
+*{
+    font-family:'Courier New', Courier, monospace;
+    font-style: italic;
+}
+.txt{
+text-align: center;
+color: aliceblue;
+}
+.tri{
+text-align: left;
+}
+a{
+color: aliceblue;
+
+}

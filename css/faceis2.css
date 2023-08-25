@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(255, 244, 228)
+}
+
+.titulo {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+  
+}
+td{
+    border-color: black;
+    border-style: dotted;
+  height: 1px;
+  border: 1;
+
+
+}
+td:hover{
+ background-color: black;
+
+}
+.link:hover{
+ color: white;
+
+}
+
+

@@ -1,0 +1,35 @@
+body{
+    background-image: linear-gradient(to bottom, white, rgb(255, 231, 164));
+   height: 750px;
+   
+}
+    .titulo{
+    text-align: center;
+    display: flex;
+    flex-direction:column ; 
+    
+    }
+    td{
+        border-color: black;
+        border-style: dotted;
+      height: 1px;
+      border: 1;
+    
+    }
+    td:hover{
+     background-color: black;
+    
+    }
+    .tab{
+        color: rgb(0, 0, 0);
+    }
+    .tab:hover{
+        color: white;
+    }
+    *{
+font-style: italic;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+    }
+     
+     

@@ -1,0 +1,22 @@
+body{
+background-image: linear-gradient(to right, rgba(175, 9, 175, 0.842), rgb(32, 32, 32));
+
+
+}
+a{
+    color: white;
+}
+p, h1{
+    color:white;
+}
+h1{
+font-size: 30px;
+
+}
+*{
+font-size: 20px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-style: italic;
+font-weight: bold;
+}
+

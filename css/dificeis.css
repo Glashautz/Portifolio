@@ -1,0 +1,23 @@
+body{
+    background-image: linear-gradient(to bottom, white, rgba(20, 211, 20, 0.562));
+    height: 2300px;
+    }
+    .titulo{
+    text-align: center;
+    display: flex;
+    flex-direction:column ; 
+    }
+    td{
+        border-color: black;
+        border-style:dotted;
+        height: 1px;
+        border: 1;
+     
+      
+    }
+      td:hover{
+        background-color: black;
+      }
+      .link:hover{
+color: white;
+      }

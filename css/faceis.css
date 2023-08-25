@@ -1,0 +1,32 @@
+body {
+    background-color: navajowhite
+}
+
+.titulo {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.tab{
+    border-color: black;
+    border-style: dotted;
+  height: 1px;
+  border: 1;
+
+}
+.tab1:hover{
+ background-color: black;
+
+}
+.link:hover{
+    color: white;
+}
+*{
+    text-align: center;
+}
+.voltar{
+    text-align: left;
+}
+
+
